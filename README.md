@@ -22,7 +22,7 @@ Deploy a copy of your application to IPFS using the following command:
 ```bash
 yarn deploy
 ```
-
+*** Node 18.0.0 is to be used. (NVM command)
 ## Learn More
 
 To learn more about thirdweb and Next.js, take a look at the following resources:
